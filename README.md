@@ -1,0 +1,1 @@
+This code is capable of removing highlights from surgical instruments and tissue surfaces during surgery (endoscopic, fundus surgery) and includes videos of the results. Data sets and training code will be supplemented later
