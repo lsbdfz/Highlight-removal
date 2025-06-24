@@ -1,1 +1,1 @@
-This code is capable of removing highlights from surgical instruments and tissue surfaces during surgery (endoscopic, fundus surgery) and includes videos of the results. Data sets and training code will be supplemented later
+This code can remove specular highlights from instruments and tissue surfaces during surgery (endoscopic and fundus procedures) and includes demonstration videos. The datasets and code will be provided after the paper is accepted.
